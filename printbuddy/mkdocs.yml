@@ -1,19 +1,17 @@
 site_name: Print Buddy
 nav:
   - Home: index.md
+  - For T0:
+      - 10-inch 0.5U Keystone Rack: 3d4.md
   - For T1:
-      - 10-inch 1U Blank panel: 3d.md
-      - 10-inch 1U Rack mount: 3d1.md
-      - 10-inch 1U Rack plate: 3d2.md
+      - 10-inch 1U Blank Panel: 3d.md
+      - 10-inch 1U Rack Mount: 3d1.md
+      - 10-inch 1U Rack Plate: 3d2.md
   - For T2:
       - 10-inch 1U Blank panel: 3d.md
       - 10-inch 1U Rack mount: 3d1.md
       - 10-inch 1U Rack plate: 3d2.md
-  - For T0:
-      - 10-inch 1U Blank panel: 3d.md
-      - 10-inch 1U Rack mount: 3d1.md
-      - 10-inch 1U Rack plate: 3d2.md
-  - About: about.md 
+  - About Us: about.md 
 
 theme: 
   name: 'material' 
