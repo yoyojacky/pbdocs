@@ -1,0 +1,26 @@
+site_name: Print Buddy
+nav:
+  - Home: index.md
+  - For T1:
+      - 10-inch 1U Blank panel: 3d.md
+      - 10-inch 1U Rack mount: 3d1.md
+      - 10-inch 1U Rack plate: 3d2.md
+  - For T2:
+      - 10-inch 1U Blank panel: 3d.md
+      - 10-inch 1U Rack mount: 3d1.md
+      - 10-inch 1U Rack plate: 3d2.md
+  - For T0:
+      - 10-inch 1U Blank panel: 3d.md
+      - 10-inch 1U Rack mount: 3d1.md
+      - 10-inch 1U Rack plate: 3d2.md
+  - About: about.md 
+
+theme: 
+  name: 'material' 
+
+plugins:
+  - search 
+
+markdown_extensions:
+  - attr_list
+
